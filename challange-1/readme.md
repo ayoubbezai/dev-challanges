@@ -1,8 +1,12 @@
 # 🚀 Taxi Hotspot Hunt – Uncover the Lost Pulse of Our Startup
 
-When Yassir started the mobility startup, he noticed an unusual rhythm hidden in the daily taxi traffic. Amid the usual bustle — crowded streets, overlapping routes, and constant movement — a secret hotspot seemed to pulse quietly, revealing subtle patterns that no one else had detected.
+Since the early days of creating Yassir, they began noticing something unusual hidden inside the taxi trip data. While the routes looked completely normal on the surface, a strange pattern kept reappearing — almost like a secret hotspot quietly pulsing behind the scenes.
 
-The dataset was recorded carefully but altered slightly: some trips are incomplete, some clusters are decoys, and in certain places, the fares themselves were subtly shifted. To find the real fares and uncover the true hotspot, you will need to read the text carefully — a hint is hidden for those who look closely.
+To keep this discovery protected, the dataset was intentionally recorded with subtle distortions:
+some trips are incomplete, some clusters are decoys, and even the fares aren’t the real ones. An early developer shifted them using a specific key… and only someone who reads the challenge carefully will figure out how to reverse it
+
+
+]
 
 ## 📂 Your Mission
 
