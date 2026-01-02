@@ -2,6 +2,7 @@
 
 **Difficulty:** Medium  
 **Points:** 700  
+**Author:** pwnsau6e  
 **Category:** Reverse Engineering
 
 ---
