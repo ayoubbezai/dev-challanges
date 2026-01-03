@@ -1,7 +1,7 @@
 # 🔍 crackme
 
 **Difficulty:** Medium  
-**Points:** 700  
+**Points:** 500  
 **Author:** pwnsau6e  
 **Category:** Reverse Engineering
 
